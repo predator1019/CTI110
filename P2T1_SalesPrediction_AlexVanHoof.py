@@ -7,7 +7,7 @@
 total_sales = float(input('Enter the projected sales:'))
 
 # Calculate the profit as 23 percent of total sales
-profit = total_salses * 0.23
+profit = total_sales * 0.23
 
 #display the profit.
 print('the profit is $', format(profit, ',.2f'))
